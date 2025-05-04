@@ -3,3 +3,4 @@ WORKDIR /ceremony
 VOLUME ["/ceremony"]
 EXPOSE 4919
 CMD ["bash"]
+CMD ["sleep", "infinity"]
